@@ -1,0 +1,78 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -------------------------
+# Data files
+# -------------------------
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.tsv
+
+# Raw data folder (if you keep one)
+data/
+raw_data/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+logs/
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+
+# -------------------------
+# Credentials / secrets
+# -------------------------
+*.key
+*.pem
+*.p12
+*.crt
+
+# -------------------------
+# Build / Packaging
+# -------------------------
+dist/
+build/
+*.egg-info/
+
+# -------------------------
+# SQL Server backups
+# -------------------------
+*.bak
+*.trn
+*.mdf
+*.ldf
+
+# -------------------------
+# Misc
+# -------------------------
+*.tmp
+*.cache

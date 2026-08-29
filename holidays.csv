@@ -1,0 +1,123 @@
+id,date,nameEn,nameFr,federal,observedDate,province_id,province_nameEn
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,AB,Alberta
+5,2026-02-16,Family Day,Fête de la famille,0,2026-02-16,AB,Alberta
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,AB,Alberta
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,AB,Alberta
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,AB,Alberta
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,AB,Alberta
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,AB,Alberta
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,AB,Alberta
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,AB,Alberta
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,BC,British Columbia
+5,2026-02-16,Family Day,Fête de la famille,0,2026-02-16,BC,British Columbia
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,BC,British Columbia
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,BC,British Columbia
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,BC,British Columbia
+21,2026-08-03,British Columbia Day,Jour de Colombie-Britannique,0,2026-08-03,BC,British Columbia
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,BC,British Columbia
+30,2026-09-30,National Day for Truth and Reconciliation,Journée nationale de la vérité et de la réconciliation,1,2026-09-30,BC,British Columbia
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,BC,British Columbia
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,BC,British Columbia
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,BC,British Columbia
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,MB,Manitoba
+3,2026-02-16,Louis Riel Day,Journée Louis Riel,0,2026-02-16,MB,Manitoba
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,MB,Manitoba
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,MB,Manitoba
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,MB,Manitoba
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,MB,Manitoba
+31,2026-09-30,Orange Shirt Day,Jour du chandail orange,0,2026-09-30,MB,Manitoba
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,MB,Manitoba
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,MB,Manitoba
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,NB,New Brunswick
+5,2026-02-16,Family Day,Fête de la famille,0,2026-02-16,NB,New Brunswick
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,NB,New Brunswick
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,NB,New Brunswick
+22,2026-08-03,New Brunswick Day,Jour de Nouveau Brunswick,0,2026-08-03,NB,New Brunswick
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,NB,New Brunswick
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,NB,New Brunswick
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,NB,New Brunswick
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,NL,Newfoundland and Labrador
+7,2026-03-17,Saint Patrick’s Day,Jour de la Saint-Patrick,0,2026-03-16,NL,Newfoundland and Labrador
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,NL,Newfoundland and Labrador
+10,2026-04-23,Saint George’s Day,Jour de St. George,0,2026-04-20,NL,Newfoundland and Labrador
+15,2026-06-24,Discovery Day,Journée découverte,0,2026-06-22,NL,Newfoundland and Labrador
+17,2026-07-01,Memorial Day,Jour du Souvenir,0,2026-07-01,NL,Newfoundland and Labrador
+19,2026-07-12,Orangemen’s Day,Fête des orangistes,0,2026-07-13,NL,Newfoundland and Labrador
+26,2026-08-05,Regatta Day,Journée des régates,0,2026-08-05,NL,Newfoundland and Labrador
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,NL,Newfoundland and Labrador
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,NL,Newfoundland and Labrador
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,NL,Newfoundland and Labrador
+35,2026-12-26,Boxing Day,Lendemain de Noël,1,2026-12-28,NL,Newfoundland and Labrador
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,NS,Nova Scotia
+6,2026-02-16,Heritage Day,Fête du Patrimoine,0,2026-02-16,NS,Nova Scotia
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,NS,Nova Scotia
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,NS,Nova Scotia
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,NS,Nova Scotia
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,NS,Nova Scotia
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,NT,Northwest Territories
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,NT,Northwest Territories
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,NT,Northwest Territories
+13,2026-06-21,National Indigenous Peoples Day,Journée nationale des peuples autochtones,0,2026-06-21,NT,Northwest Territories
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,NT,Northwest Territories
+20,2026-08-03,Civic Holiday,Congé civique,1,2026-08-03,NT,Northwest Territories
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,NT,Northwest Territories
+30,2026-09-30,National Day for Truth and Reconciliation,Journée nationale de la vérité et de la réconciliation,1,2026-09-30,NT,Northwest Territories
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,NT,Northwest Territories
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,NT,Northwest Territories
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,NT,Northwest Territories
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,NU,Nunavut
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,NU,Nunavut
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,NU,Nunavut
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,NU,Nunavut
+18,2026-07-09,Nunavut Day,Jour de Nunavut,0,2026-07-09,NU,Nunavut
+20,2026-08-03,Civic Holiday,Congé civique,1,2026-08-03,NU,Nunavut
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,NU,Nunavut
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,NU,Nunavut
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,NU,Nunavut
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,NU,Nunavut
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,ON,Ontario
+5,2026-02-16,Family Day,Fête de la famille,0,2026-02-16,ON,Ontario
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,ON,Ontario
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,ON,Ontario
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,ON,Ontario
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,ON,Ontario
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,ON,Ontario
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,ON,Ontario
+35,2026-12-26,Boxing Day,Lendemain de Noël,1,2026-12-28,ON,Ontario
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,PE,Prince Edward Island
+4,2026-02-16,Islander Day,Fête des Insulaires,0,2026-02-16,PE,Prince Edward Island
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,PE,Prince Edward Island
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,PE,Prince Edward Island
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,PE,Prince Edward Island
+30,2026-09-30,National Day for Truth and Reconciliation,Journée nationale de la vérité et de la réconciliation,1,2026-09-30,PE,Prince Edward Island
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,PE,Prince Edward Island
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,PE,Prince Edward Island
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,QC,Quebec
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,QC,Quebec
+11,2026-05-18,National Patriots’ Day,Journée nationale des patriotes,0,2026-05-18,QC,Quebec
+14,2026-06-24,Saint-Jean-Baptiste Day,Saint-Jean-Baptiste / Fête nationale du Québec,0,2026-06-24,QC,Quebec
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,QC,Quebec
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,QC,Quebec
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,QC,Quebec
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,QC,Quebec
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,SK,Saskatchewan
+5,2026-02-16,Family Day,Fête de la famille,0,2026-02-16,SK,Saskatchewan
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,SK,Saskatchewan
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,SK,Saskatchewan
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,SK,Saskatchewan
+23,2026-08-03,Saskatchewan Day,Jour de Saskatchewan,0,2026-08-03,SK,Saskatchewan
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,SK,Saskatchewan
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,SK,Saskatchewan
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,SK,Saskatchewan
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,SK,Saskatchewan
+1,2026-01-01,New Year’s Day,Jour de l’An,1,2026-01-01,YT,Yukon
+8,2026-04-03,Good Friday,Vendredi saint,1,2026-04-03,YT,Yukon
+12,2026-05-18,Victoria Day,Fête de la Reine,1,2026-05-18,YT,Yukon
+13,2026-06-21,National Indigenous Peoples Day,Journée nationale des peuples autochtones,0,2026-06-21,YT,Yukon
+16,2026-07-01,Canada Day,Fête du Canada,1,2026-07-01,YT,Yukon
+27,2026-08-17,Discovery Day,Jour de la Découverte,0,2026-08-17,YT,Yukon
+28,2026-09-07,Labour Day,Fête du travail,1,2026-09-07,YT,Yukon
+30,2026-09-30,National Day for Truth and Reconciliation,Journée nationale de la vérité et de la réconciliation,1,2026-09-30,YT,Yukon
+32,2026-10-12,Thanksgiving,Action de grâce,1,2026-10-12,YT,Yukon
+33,2026-11-11,Remembrance Day,Jour du Souvenir,1,2026-11-11,YT,Yukon
+34,2026-12-25,Christmas Day,Noël,1,2026-12-25,YT,Yukon
