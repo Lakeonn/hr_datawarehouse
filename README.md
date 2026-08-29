@@ -18,7 +18,7 @@ The goal is to provide a clean, reproducible, enterprise‑grade HR data warehou
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### 🔹 Bronze Layer  
 Raw staging tables loaded directly from CSVs or external sources.  
