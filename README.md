@@ -55,6 +55,22 @@ A single SQL procedure that:
 
 ## 📁 Project Structure
 
+hr_datawarehouse/
+│
+├── sql/
+│   ├── bronze/        # Raw ingestion SQL scripts
+│   ├── silver/        # Cleaning + transformation SQL scripts
+│   ├── gold/          # Dimensional models + reporting tables
+│   ├── master/        # Orchestration + logging procedures
+│
+├── python/
+│   ├── etl_scripts/   # Optional Python ETL loaders
+│
+├── docs/              # Documentation, diagrams, notes
+│
+├── .gitignore
+├── README.md
+
 
 ---
 
@@ -172,7 +188,5 @@ Only SQL scripts, Python ETL, and documentation are tracked.
 ## 👤 Author
 
 **Olalekan**  
-Founder & Technical Consultant — Letovie Consulting  
-Building AfroVendors / AfriFind marketplace platform  
 
 ---
